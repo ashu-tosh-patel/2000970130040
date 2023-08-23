@@ -4,5 +4,5 @@
 ## My Introduction:
 
 Name : Ashutosh Patel\
-College : Galgotias college of engineering and technology
-Roll No. : 2000970130040\
+College : Galgotias college of engineering and technology\
+Roll No. : 2000970130040
