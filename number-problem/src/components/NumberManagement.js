@@ -8,7 +8,7 @@ function NumberManagement() {
         setLoading(true);
 
 
-        const apiUrl = 'http://20.244.56.144/numbers/rand';
+        const apiUrl = 'http://20.244.56.144/numbers/odd';
 
         try {
             const response = await fetch(apiUrl);
